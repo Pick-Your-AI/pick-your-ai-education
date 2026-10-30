@@ -1,0 +1,72 @@
+{
+ "config_sha256": "bd2386d654a06b2602ae9a379db613a44b7718a69e59e596c1aa59b3a6519e56",
+ "fingerprint": "39e72566d949ca62c8ee6bdf32c47d0d212ea1c8cdeb0daa58948b3b31005a0c",
+ "inputs": {
+  "description": "Learning paths, tutorials, resources, workshops and contributor onboarding for Pick Your AI.",
+  "icon_sha256": "bd5965ef7860310f7787ba440c7046337daf0c1ca78072e13d6d506d4525d2a9",
+  "language": null,
+  "license": null,
+  "override_sha256": "65b3df65812576b175eb9084f75bbff4a4d4ab419768856ce76b7ff6a0179bf5",
+  "owner": "Pick-Your-AI",
+  "repo": "pick-your-ai-education",
+  "topics": [],
+  "type": "workspace",
+  "visibility": "public"
+ },
+ "outputs": {
+  "banner.png": {
+   "bytes": 76714,
+   "chips": [
+    {
+     "box": [
+      520,
+      241.5,
+      169.2,
+      38
+     ],
+     "kind": "key",
+     "source": "override",
+     "text": "Learning paths"
+    },
+    {
+     "box": [
+      701.2,
+      241.5,
+      134.9,
+      38
+     ],
+     "kind": "attr",
+     "source": "override",
+     "text": "Workshops"
+    },
+    {
+     "box": [
+      848.1,
+      241.5,
+      250.4,
+      38
+     ],
+     "kind": "attr",
+     "source": "override",
+     "text": "Contributor onboarding"
+    }
+   ],
+   "icon_source": "override",
+   "px": [
+    2560,
+    720
+   ],
+   "repository_id": 1439194215,
+   "scale": 2,
+   "sha256": "8e2ffc499aac643ad25236dfc48001fee01b2e0f789702d14bd16ac57a09beb0"
+  },
+  "card.svg": {
+   "bytes": 21862,
+   "repository_id": 1439194215,
+   "sha256": "39fd2e92d0f4468fa531058212cd0fc86678bb044ade75e8bf05f8fb99b8a15b"
+  }
+ },
+ "schema": 1,
+ "skill_version": "1.0.0",
+ "standard": "ct-std-v1"
+}

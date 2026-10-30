@@ -1,0 +1,8 @@
+# Showcase overrides (content only; colours and fonts come from the skill's brand.yaml).
+# The repository has no file tree yet, so the type cannot be detected; chips come from the About description.
+for: Pick-Your-AI/pick-your-ai-education
+type: tutorial
+icon: assets/icon.png
+chips:
+  key: ["Learning paths"]
+  attrs: ["Workshops", "Contributor onboarding"]
